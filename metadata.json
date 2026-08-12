@@ -1,0 +1,6 @@
+{
+  "name": "中宏风格年金险计算器与KOC客情分析系统",
+  "description": "专业的年金险收益精算与目标试算工具，结合高价值客户KOC客情分析及一对一定制化营销方案生成系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
